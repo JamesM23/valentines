@@ -1,0 +1,58 @@
+body {
+    background-image: url('w3css.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: pink;
+
+   
+ 
+}
+p {
+    text-align: center;
+    color: yellow;
+    font-size: 25px;
+    align-items: stretch;
+
+}
+h1 { 
+    font: 1em Times;
+text-shadow: 23;
+text-align: center;
+font-size: 69px;
+
+}
+.a {
+    text-align: center;
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2015/12/Happy-Valentine-Day-2016-very-cute.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat, repeat;
+    margin-right: 600px;
+    padding: 300px;
+    align-items: stretch;
+   font: white;
+}
+  
+div.b {
+    text-align: center;
+    font-size: 50px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVu1fQJ_QbIyXdig76-170FSPm9pmV6_4HH6xSN8XmZpp8M0u");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    margin: 300px;
+    padding: 500px;
+    border-image-width: 199px;
+
+  }
+
+  
+div.c {
+    text-align: center;
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Desktop-Valentines-Wallpapers-HD.jpg");
+    margin: 100px;
+    padding: 300px;
+    font-size: 50px;
+    color: palevioletred;
+}
